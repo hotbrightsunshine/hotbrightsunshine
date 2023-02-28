@@ -24,3 +24,6 @@ I'm Francesco, and I'm currently interest in Mathemathics and Computer Science.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚠ Slowly moving to Codeberg. You can find me [here](https://codeberg.org/hotbrightsunshine).
+I don't use Github anymore. I moved to a more ethical place.
+I want to host my open-source code on an open-source platform; one that values users' privacy.
+Codeberg is, in fact, run by volunteers and it is built on top of Gitea. 
