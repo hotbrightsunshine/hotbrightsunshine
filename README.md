@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Francesco, and I'm currently interest in Mathemathics and Computer Science. 
+I'm Francesco, and I'm currently interested in Mathemathics and Computer Science. 
 
 ### 🧮 Using and/or currently learning
 
